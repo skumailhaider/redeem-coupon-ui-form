@@ -1,0 +1,16 @@
+body {
+    background-color: #1c2a45;;
+    
+}
+
+.card_container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.form_ui {
+    background-color: white;
+    border-radius: 0.5rem;
+}
